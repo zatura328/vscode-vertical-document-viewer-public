@@ -1,0 +1,1 @@
+# https-github.com-zatura328-vscode-vertical-document-viewer-public
