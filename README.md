@@ -10,7 +10,8 @@ There is a menu for show tabs options:
 <img width="622" height="395" alt="image" src="https://github.com/user-attachments/assets/c797ad43-c6d7-4968-8d95-8fa8ff86ed61" />
 
 Another one if you want more place for file in your window you can disable the tooltip at the bottom:
-<img width="803" height="461" alt="image" src="https://github.com/user-attachments/assets/21e43fcc-2495-4439-8d3e-ec20e44809ba" />
+<img width="803" height="461" alt="image" src="https://github.com/user-attachments/assets/1dc83109-6783-4725-98d7-c0a5185e29b6" />
+
 
 ## Requirements
 
