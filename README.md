@@ -2,15 +2,15 @@
 
 It's a vertical file viewer for opened tabs. 
 Include some options to show tabs at top or hide them.
-<img width="428" height="394" alt="image" src="https://github.com/user-attachments/assets/fdeef34f-da8b-49b9-9a5f-c9909e7f4c55" />
+<img width="428" height="394" alt="image" src="./VerticalViewerReadMe.png" />
 
 
 ## Features
 There is a menu for show tabs options:    
-<img width="622" height="395" alt="image" src="https://github.com/user-attachments/assets/c797ad43-c6d7-4968-8d95-8fa8ff86ed61" />
+<img width="622" height="395" alt="image" src="./VerticalViewerReadMeTabsOptions.png" />
 
 Another one if you want more place for file in your window you can disable the tooltip at the bottom:
-<img width="803" height="461" alt="image" src="https://github.com/user-attachments/assets/1dc83109-6783-4725-98d7-c0a5185e29b6" />
+<img width="803" height="461" alt="image" src="VerticalViewerReadMeTooltipOptions.png/" />
 
 
 ## Requirements
