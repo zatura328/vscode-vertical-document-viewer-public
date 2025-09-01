@@ -6,8 +6,11 @@ Include some options to show tabs at top or hide them.
 
 
 ## Features
-There is a menu for all options:    
-<img width="546" height="447" alt="image" src="https://github.com/user-attachments/assets/8cef3357-be32-40c8-9312-4fba6fa4ae58" />
+There is a menu for show tabs options:    
+<img width="622" height="395" alt="image" src="https://github.com/user-attachments/assets/c797ad43-c6d7-4968-8d95-8fa8ff86ed61" />
+
+Another one if you want more place for file in your window you can disable the tooltip at the bottom:
+
 
 
 
