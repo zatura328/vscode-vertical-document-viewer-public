@@ -1,13 +1,12 @@
 # Vertical document viewer README
 
-It's a vertical file viewer for opened tabs. A good learning project for vscode extension.
-Include some options to show tabs at top or hide them.
-
-I'ts similar to the vscode open editor. If someone would like more feature in it just ask it.
+It's a vertical file viewer for opened tabs. A good learning project for vscode extension.  
+Include some options to show tabs at top or hide them.  
+  
+I'ts similar to the vscode open editor. If someone would like more feature in it just ask it.  
 Ps. This one does'nt work with multiple editor now.
 
 <img width="428" height="394" alt="image" src="./VerticalViewerReadMe.png" />
-
 
 ## Features
 There is a menu for show tabs options:    
